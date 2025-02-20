@@ -9,15 +9,11 @@
 <td valign="top" width="50%">
   
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/df6c4963bb692da3966b4a6fefb19a13" target="_blank">📊 每周工作报告</a>
+#### <a href="https://gist.github.com/df6c4963bb692da3966b4a6fefb19a13" target="_blank">📊 Weekly development breakdown</a>
 ```text
-TypeScript 🕓 46h7m ████████████████████░░░░░░░░ 71.9%
-Python     🕓 3h22m █▍░░░░░░░░░░░░░░░░░░░░░░░░░░  5.2%
-JSON       🕓 3h14m █▍░░░░░░░░░░░░░░░░░░░░░░░░░░  5.0%
-Markdown   🕓 2h39m █▏░░░░░░░░░░░░░░░░░░░░░░░░░░  4.2%
-JavaScript 🕓 2h36m █▏░░░░░░░░░░░░░░░░░░░░░░░░░░  4.0%
+Still Gathering Statistics...
 ```
-<!-- Powered by https://github.com/Feiyuyu0503/waka-box-go . -->
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 [powered by waka-box-go](https://github.com/Feiyuyu0503/waka-box-go)
