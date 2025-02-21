@@ -1,5 +1,20 @@
-### ![]( https://visitor-badge.glitch.me/badge?page_id=Feiyuyu0503.readme) Hi there 👋 
+### ![]( https://visitor-badge.glitch.me/badge?page_id=Feiyuyu0503.readme) Hi, I'm feiyuyu 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=F7193E&background=FF85C600&center=%E7%9C%9F&vCenter=%E7%9C%9F&lines=welcome+to+my+space)](https://git.io/typing-svg)
+
+#### Platform & Tools
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>
+[![](https://img.shields.io/badge/OS-Ubuntu-33aadd?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
+[![](https://img.shields.io/badge/OnePlus-PJD110-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.oneplus.com/cn/12)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+
+#### Languages & Frameworks
+[![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)  
+[![](https://img.shields.io/badge/-Python-2c8ebb?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-PyTorch-fd5750?style=for-the-badge&logo=pytorch&logoColor=ffffff)](https://pytorch.org/)
+[![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
 <div align="left">
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Feiyuyu0503" />
