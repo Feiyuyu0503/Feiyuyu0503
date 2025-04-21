@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=F7193E&background=FF85C600&center=%E7%9C%9F&vCenter=%E7%9C%9F&lines=welcome+to+my+space)](https://git.io/typing-svg)
 
 #### Platform & Tools
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@MYGHCV?theme=miku" height="100" align="right"></a>
 [![](https://img.shields.io/badge/OS-Ubuntu-33aadd?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
 [![](https://img.shields.io/badge/OnePlus-PJD110-2E77BC?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.oneplus.com/cn/12)
