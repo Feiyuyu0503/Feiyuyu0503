@@ -26,11 +26,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/df6c4963bb692da3966b4a6fefb19a13" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Other      🕓 3h14m ████████████▏░░░░░░░░░░░░░░░ 43.5%
-Python     🕓 2h34m █████████▋░░░░░░░░░░░░░░░░░░ 34.6%
-Markdown   🕓 50m   ███▏░░░░░░░░░░░░░░░░░░░░░░░░ 11.4%
-JSON       🕓 21m   █▎░░░░░░░░░░░░░░░░░░░░░░░░░░  4.9%
-TOML       🕓 19m   █▏░░░░░░░░░░░░░░░░░░░░░░░░░░  4.4%
+Python     🕓 1h35m ██████████▏░░░░░░░░░░░░░░░░░ 36.3%
+JSON       🕓 1h18m ████████▎░░░░░░░░░░░░░░░░░░░ 29.9%
+Other      🕓 32m   ███▍░░░░░░░░░░░░░░░░░░░░░░░░ 12.2%
+Markdown   🕓 32m   ███▍░░░░░░░░░░░░░░░░░░░░░░░░ 12.2%
+TOML       🕓 19m   ██░░░░░░░░░░░░░░░░░░░░░░░░░░  7.5%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
